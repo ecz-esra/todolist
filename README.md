@@ -4,4 +4,4 @@
 
 <h2>ekran screen</h2>
 
-![javaScript1.gif]()
+![](ekran.gif)
